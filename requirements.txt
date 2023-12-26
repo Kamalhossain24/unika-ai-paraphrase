@@ -1,0 +1,6 @@
+transformers[torchhub]
+sentencepiece
+python-Levenshtein 
+fuzzywuzzy
+sentence-transformers
+pandas
